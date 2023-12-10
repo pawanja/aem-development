@@ -1,0 +1,5 @@
+#File edited by the Apache Sling Content Package to Sling Feature converter
+#Fri Dec 08 17:14:29 IST 2023
+author=aem-practice-spa.react.all-author.json
+publish=aem-practice-spa.react.all-publish.json
+(default)=aem-practice-spa.react.all.json
